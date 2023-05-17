@@ -1,0 +1,8 @@
+https://drive.google.com/drive/folders/1BQYWtOnv4VqSib64AQcDyIrka5ARIlkL?usp=share_link
+
+Nota: o algoritmo do vídeo estava ordenando os itens do maior para o menor peso devido a
+um teste anterior que fizemos, o algoritmo e as soluções foram corrigidas de acordo com 
+o que falamos no vídeo, ordenando os itens do menor peso para o maior.
+
+Nota2 (Correção): alteramos apenas a ordem dos itens, desta vez ordenando do maior para o
+menor, obtendo assim, resultados muito mais satisfatórios.
